@@ -1,0 +1,21 @@
+nav ul{
+    list-style: none;
+    display: flex;
+    justify-content:right;
+    text-align: right;
+}
+nav ul li a{
+    text-decoration: none;
+    color: #FFEDBC;
+    padding: 1rem;
+    font-weight: bold;
+    transition: all .5s ease;
+}
+nav img{
+    width: 120px;
+    height: auto;
+}
+nav ul li a:hover{
+    color: #57385C;
+    background-color: #F2EFE9;
+}

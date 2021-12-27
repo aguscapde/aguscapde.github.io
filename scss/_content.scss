@@ -1,0 +1,37 @@
+body{
+    background-color: #F2EFE9;
+    font-weight: bold; 
+}
+.index_contenedor{
+    padding: 10px 50px 20px;
+    text-align: center;
+    color: #57385C;
+}
+.quienSoy_container{
+    padding: 10px 50px 20px;
+    text-align: center;
+    color: #57385C;
+}
+h2, h3{
+    color: #A75265;
+    font-weight: bold; 
+}
+p{
+    color: #57385C;
+}
+.contact{
+    padding: 10px 50px 20px;
+    text-align: center;
+}
+.card-text{
+    overflow: hidden; 
+	text-overflow: ellipsis; 
+	display: -webkit-box; 
+	-webkit-line-clamp: 3; /* number of lines to show */ 
+	-webkit-box-orient: vertical;
+}
+img {
+    width:200px;
+    height:300px;
+    object-fit: scale-down;
+}
